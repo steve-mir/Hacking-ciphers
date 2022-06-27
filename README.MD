@@ -1,13 +1,13 @@
-# Foobar
+# Hacking Ciphers
 
-Foobar is a Python library for dealing with word pluralization.
+This is the implementation of common cryptographs like Ceaser's cipher.....
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install hacking-ciphers.
 
 ```bash
-pip install foobar
+pip install hacking-ciphers
 ```
 
 ## Usage
