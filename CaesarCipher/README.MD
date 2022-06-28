@@ -13,3 +13,5 @@ encrypt("Happy", 8);
 foobar.pluralize('word')
 
 ```
+
+Add decryption code later
